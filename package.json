@@ -1,0 +1,18 @@
+{
+  "name": "zerver-plugin-coffeescript",
+  "version": "1.0.0",
+  "description": "Automatic CoffeeScript compilation for Zerver",
+  "author": "Jairaj Sethi <j@jairaj.org> (http://jairaj.org/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jairajs89/zerver-plugin-coffeescript.git"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "coffee-script": "1.10.0"
+  },
+  "main": "index.js"
+}
