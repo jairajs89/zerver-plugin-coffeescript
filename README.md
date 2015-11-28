@@ -1,4 +1,4 @@
-# Zerver plugin for CoffeeCcript
+# Zerver plugin for CoffeeScript
 
 Automatic CoffeeScript compilation for Zerver
 
